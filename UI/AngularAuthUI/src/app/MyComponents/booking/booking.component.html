@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Register Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: white;
+      margin: 0;
+      padding: 0;
+      background-image: url('../../assets/img/home.jpg');
+          background-size: cover;
+          filter: blur(100);
+          height: 100vh;
+    }
+
+    .container {
+      max-width: 400px;
+      margin: 100px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    .form-group label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+
+    .form-group input {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 3px;
+      border: 1px solid #ccc;
+    }
+
+    .form-group button {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      background-color: #4caf50;
+      color: #fff;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+
+    .form-group button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <app-navbar></app-navbar>
+
+        <div class="container" style="background-color: #41464b;">
+
+          <h2 class="text-center" style="font-family: Arial, sans-serif; color: White; font-size: 24px; font-weight: bold; text-transform: uppercase;">Booking</h2>
+          <form (ngSubmit)="onSubmit()" class="mt-4">
+            <div class="form-group">
+                <label for="userName" class="form-label" style="font-family: Arial, sans-serif; color: White; font-size: 16px; font-weight: bold; text-transform: uppercase;">Passenger Name</label>
+                <input type="text" [(ngModel)]="userName" class="form-control" id="userName" name="userName" placeholder="Enter your name">
+            </div>
+            <div class="form-group">
+                <label for="age" class="form-label" style="font-family: Arial, sans-serif; color: White; font-size: 16px; font-weight: bold; text-transform: uppercase;">Age</label>
+                <input type="text" class="form-control" id="age" name="age" [(ngModel)]="age" placeholder="Enter your Age">
+            </div>
+            <div class="form-group">
+                <label for="gender" class="form-label" style="font-family: Arial, sans-serif; color: White; font-size: 16px; font-weight: bold; text-transform: uppercase;">Gender</label>
+                <select class="form-control" id="gender" name="gender" [(ngModel)]="gender" >
+                    <option value="Male" >Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="ticketType" class="form-label" style="font-family: Arial, sans-serif; color: White; font-size: 16px; font-weight: bold; text-transform: uppercase;">Ticket Type</label>
+                <select class="form-control" id="ticketType" name="ticketType" [(ngModel)]="ticketType">
+                    <option value="SL">SL</option>
+                    <option value="AC1">AC1</option>
+                    <option value="AC2">AC2</option>
+                    <option value="AC3">AC3</option>
+                    <option value="G">G</option>
+                </select>
+            </div>
+            <div class="form-group">
+              <label for="Passanger" class="form-label" style="font-family: Arial, sans-serif; color: White; font-size: 16px; font-weight: bold; text-transform: uppercase;">No Of Passenger</label>
+              <input type="text" class="form-control" id="age" name="age" [(ngModel)]="passenger" placeholder="Enter No of Passanger">
+          </div>
+            <button type="submit" class="btn" style="background-color: #45a049;">Book</button>
+        </form>
+    </div>
+
+  </body>
+</html>

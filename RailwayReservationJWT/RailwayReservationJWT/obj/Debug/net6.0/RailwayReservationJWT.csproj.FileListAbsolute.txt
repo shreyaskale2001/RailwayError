@@ -1,0 +1,162 @@
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\appsettings.json
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.exe
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.deps.json
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.runtimeconfig.json
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.pdb
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.csproj.AssemblyReference.cache
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.AssemblyInfoInputs.cache
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.AssemblyInfo.cs
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.csproj.CoreCompileInputs.cache
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets\msbuild.RailwayReservationJWT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets\msbuild.build.RailwayReservationJWT.props
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RailwayReservationJWT.props
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RailwayReservationJWT.props
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\scopedcss\bundle\RailwayReservationJWT.styles.css
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.csproj.CopyComplete
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\refint\RailwayReservationJWT.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.pdb
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.genruntimeconfig.cache
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\ref\RailwayReservationJWT.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\MailKit.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\User.Management.Service.dll
+C:\Users\Shreyas\source\repos\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\User.Management.Service.pdb
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\appsettings.json
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.exe
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.deps.json
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.runtimeconfig.json
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\RailwayReservationJWT.pdb
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\MailKit.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\User.Management.Service.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\bin\Debug\net6.0\User.Management.Service.pdb
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.csproj.AssemblyReference.cache
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.AssemblyInfoInputs.cache
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.AssemblyInfo.cs
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.csproj.CoreCompileInputs.cache
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets\msbuild.RailwayReservationJWT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets\msbuild.build.RailwayReservationJWT.props
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RailwayReservationJWT.props
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RailwayReservationJWT.props
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\scopedcss\bundle\RailwayReservationJWT.styles.css
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.csproj.CopyComplete
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\refint\RailwayReservationJWT.dll
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.pdb
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\RailwayReservationJWT.genruntimeconfig.cache
+C:\Users\Shreyas\source\Case Study\RailwayReservationJWT\RailwayReservationJWT\obj\Debug\net6.0\ref\RailwayReservationJWT.dll

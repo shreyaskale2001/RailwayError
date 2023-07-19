@@ -1,0 +1,188 @@
+
+
+  <app-navbar></app-navbar>
+  <style>
+    .body{
+      background-image: url('../../assets/img/home.jpg');
+          background-size: cover;
+          filter: blur(100);
+          height: 100vh;
+    }
+  </style>
+  <body class="body">
+<div class="container">
+    <button type="button" class="btn btn-primary my-5" data-bs-toggle="modal" data-bs-target="#addTraineModal">
+        Add Train
+    </button>
+    <div class="table-container">
+<table *ngIf="resultArray!=null && resultArray.length>0" class="table table-striped table-bordered">
+    <thead>
+      <tr style="background-color:#41464b; color:white;">
+        <!-- <th>TrainNo</th> -->
+        <th>TrainName</th>
+        <th>ArrivalLocation</th>
+        <th>DestinationLocation</th>
+        <th>StartDate</th>
+        <th>JourneyTime</th>
+        <th>SeatCount_AC1tire</th>
+        <th>SeatCount_AC2tire</th>
+        <th>SeatCount_AC3tire</th>
+        <th>SeatCount_Slepper</th>
+        <th>SeatCount_SecoundSetting</th>
+        <th>Book</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let row of resultArray">
+        <!-- <td>{{row.trainNo}}</td> -->
+        <td style="background-color:gray ; color:white;">{{row.trainName}}</td>
+        <td style="background-color:gray ; color:white;">{{row.arrivalLocation}}</td>
+        <td style="background-color:gray ; color:white;">{{row.destinationLocation}}</td>
+        <td style="background-color:gray ; color:white;">{{row.startDate}}</td>
+        <td style="background-color:gray ; color:white;">{{row.journeyTime}}</td>
+        <td style="background-color:gray ; color:white;">{{row.seatCount_AC1tire}}</td>
+        <td style="background-color:gray ; color:white;">{{row.seatCount_AC2tire}}</td>
+        <td style="background-color:gray ; color:white;">{{row.seatCount_AC3tire}}</td>
+        <td style="background-color:gray ; color:white;">{{row.seatCount_Slepper}}</td>
+        <td style="background-color:gray ; color:white;">{{row.seatCount_SecoundSetting}}</td>
+        <td>
+                <button class="btn btn-sm btn-warning" data-bs-toggle="modal" data-bs-target="#updateTrain" (click)="editTrainClicked(row.trainNo)" style="background-color:rgb(198, 237, 44)">Edit</button>
+                <button class="btn btn-sm btn-danger" (click)="deleteTrain(row.trainNo)" style="background-color:rgb(144, 219, 252)">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+  </table>
+  </div>
+</div>
+
+
+<!-- Button trigger modal -->
+
+
+  <!-- Add Modal -->
+  <div class="modal fade" id="addTraineModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Add Train</h5>
+          <button type="button" id="addTrainModalClose" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form (ngSubmit)="addTrain()" class="container">
+                <div class="mb-3">
+                    <label for="trainNo" class="form-label">Train Number</label>
+                    <input type="text" [(ngModel)]="trainNo" class="form-control" id="trainNo" name="trainNo">
+                </div>
+                <div class="mb-3">
+                    <label for="trainName" class="form-label">Train Name</label>
+                    <input type="text" [(ngModel)]="trainName" class="form-control" id="trainName" name="trainName" >
+                </div>
+                <div class="mb-3">
+                    <label for="arrivalLocation" class="form-label">Arrival Location</label>
+                    <input type="text" [(ngModel)]="arrivalLocation" class="form-control" id="arrivalLocation" name="arrivalLocation">
+                </div>
+                <div class="mb-3">
+                    <label for="destinationLocation" class="form-label">Destination Location</label>
+                    <input type="text" [(ngModel)]="destinationLocation" class="form-control" id="destinationLocation" name="destinationLocation">
+                </div>
+                <div class="mb-3">
+                    <label for="startDate" class="form-label">Start Date</label>
+                    <input type="datetime-local" [min]="currentDate" class="form-control" id="startDate" name="startDate"
+                        [(ngModel)]="startDate">
+                </div>
+                <div class="mb-3">
+                    <label for="journeyTime" class="form-label">Journey Time</label>
+                    <input type="text" [(ngModel)]="journeyTime" class="form-control" id="journeyTime" name="journeyTime">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_AC1tire" class="form-label">AC Tir1</label>
+                    <input type="text" [(ngModel)]="seatCount_AC1tire" class="form-control" id="seatCount_AC1tire" name="seatCount_AC1tire">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_AC2tire" class="form-label">AC Tir2</label>
+                    <input type="text" [(ngModel)]="seatCount_AC2tire" class="form-control" id="seatCount_AC2tire" name="seatCount_AC2tire">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_AC3tire" class="form-label">AC Tir3</label>
+                    <input type="text" [(ngModel)]="seatCount_AC3tire" class="form-control" id="seatCount_AC3tire" name="seatCount_AC3tire">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_Slepper" class="form-label">Slepper</label>
+                    <input type="text" [(ngModel)]="seatCount_Slepper" class="form-control" id="seatCount_Slepper" name="seatCount_Slepper">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_SecoundSetting" class="form-label">SecoundSetting</label>
+                    <input type="text" [(ngModel)]="seatCount_SecoundSetting" class="form-control" id="seatCount_SecoundSetting" name="seatCount_SecoundSetting">
+                </div>
+
+                <button type="submit" class="btn btn-success">Add Train</button>
+            </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Update Modal -->
+  <div class="modal fade" id="updateTrain" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Update Train Details</h5>
+          <button type="button" id="updateTrainModalClose" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form (ngSubmit)="editTrain()" class="container">
+                <div class="mb-3">
+                    <label for="trainNo" class="form-label">Train Number</label>
+                    <input type="text" [(ngModel)]="trainNo" class="form-control" id="trainNo" name="trainNo">
+                </div>
+                <div class="mb-3">
+                    <label for="trainName" class="form-label">Train Name</label>
+                    <input type="text" [(ngModel)]="trainName" class="form-control" id="trainName" name="trainName" >
+                </div>
+                <div class="mb-3">
+                    <label for="arrivalLocation" class="form-label">Arrival Location</label>
+                    <input type="text" [(ngModel)]="arrivalLocation" class="form-control" id="arrivalLocation" name="arrivalLocation">
+                </div>
+                <div class="mb-3">
+                    <label for="destinationLocation" class="form-label">Destination Location</label>
+                    <input type="text" [(ngModel)]="destinationLocation" class="form-control" id="destinationLocation" name="destinationLocation">
+                </div>
+                <div class="mb-3">
+                    <label for="startDate" class="form-label">Start Date</label>
+                    <input type="datetime-local" [min]="currentDate" class="form-control" id="startDate" name="startDate"
+                        [(ngModel)]="startDate">startDate
+                </div>
+                <div class="mb-3">
+                    <label for="eClassPrice" class="form-label">Journey Time</label>
+                    <input type="text" [(ngModel)]="journeyTime" class="form-control" id="eClassPrice" name="eClassPrice">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_AC1tire" class="form-label">AC Tir1</label>
+                    <input type="text" [(ngModel)]="seatCount_AC1tire" class="form-control" id="seatCount_AC1tire" name="seatCount_AC1tire">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_AC2tire" class="form-label">AC Tir2</label>
+                    <input type="text" [(ngModel)]="seatCount_AC2tire" class="form-control" id="seatCount_AC2tire" name="seatCount_AC2tire">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_AC3tire" class="form-label">AC Tir3</label>
+                    <input type="text" [(ngModel)]="seatCount_AC3tire" class="form-control" id="seatCount_AC3tire" name="seatCount_AC3tire">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_Slepper" class="form-label">Slepper</label>
+                    <input type="text" [(ngModel)]="seatCount_Slepper" class="form-control" id="seatCount_Slepper" name="seatCount_Slepper">
+                </div>
+                <div class="mb-3">
+                    <label for="seatCount_SecoundSetting" class="form-label">SecoundSetting</label>
+                    <input type="text" [(ngModel)]="seatCount_SecoundSetting" class="form-control" id="seatCount_SecoundSetting" name="seatCount_SecoundSetting">
+                </div>
+
+                <button type="submit" class="btn btn-success">Update Details</button>
+            </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
